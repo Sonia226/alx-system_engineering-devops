@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -fhR mode hello
+chmod 753 hello
