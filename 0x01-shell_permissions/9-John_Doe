@@ -1,2 +1,2 @@
-#!/bin/basg
-chmod 753 hello
+#!/bin/bash
+chmod -fhR mode hello
