@@ -1,2 +1,2 @@
-!#/bim/bash
+#!/bim/bash
 sort | uniq -u
